@@ -1,3 +1,6 @@
 # Livro de receitas :man_cook:
-Olá, bem-vvindo ao meu livro de receitas
+Olá, bem-vindo ao meu livro de receitas
  - Strogonoff de Frango
+
+ Repositório feito para fins didáticos
+ 
